@@ -6,8 +6,6 @@
 #include <stdlib.h>
 using namespace std;
 
-// BOOK  STORE MANAGEMENT SYSTEM
-
 class Book
 {
 private:
@@ -30,15 +28,15 @@ public:
     }
 
 public:
-    void display();      // 40
-    void insert();       // 52
-    void deleted();      // 85
-    void search();       // 120
-    void update();       // 235
-    void cart();         // 282
-    void display_cart(); // 305
-    void buy();          // 317
-    void pro();          // 343
+    void display();      
+    void insert();       
+    void deleted();      
+    void search();       
+    void update();       
+    void cart();         
+    void display_cart(); 
+    void buy();          
+    void pro();          
     void billing();
 };
 
