@@ -18,9 +18,9 @@
 
    3. Libraries Used:
 
-      - &ltiostream&gt
+      - &lt;iostream&gt;
 
-      - &ltfstream&gt
+      - &lt;fstream&gt;
 
       - <string.h>
 
