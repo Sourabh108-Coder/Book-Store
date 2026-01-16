@@ -146,28 +146,28 @@ This program uses <conio.h>, which works best on Windows-based compilers like:
 **Screenshots**
 
 ## User Login
-![User Login]()
+![User Login](screenshots/Login_(User).png)
 
 ## User Menu(1)
-![User Menu(1)]()
+![User Menu(1)](screenshots/Menu(1)_(User).png)
 
 ## User Menu(1) Result
-![User Menu(1) Result]()
+![User Menu(1) Result](screenshots/Menu(1)_Result.png)
 
 ## User Menu(2)
-![User Menu(2)]()
+![User Menu(2)](screenshots/Menu(2)_(User).png)
 
 ## User Menu(2) Result
-![User Menu(2) Result]()
+![User Menu(2) Result](screenshots/Menu(2)_Result.png)
 
 ## Manager Login
-![Manager Login]()
+![Manager Login](screenshots/Login_(Manager).png)
 
 ## Manager Menu(3)
-![Manager Menu(3)]()
+![Manager Menu(3)](screenshots/Menu(3)_(Manager).png)
 
 ## Manager Menu(3) Result
-![Manager Menu(3) Result]()
+![Manager Menu(3) Result](screenshots/Menu(3)_Result.png)
 
 
 **📌 Disclaimer**
