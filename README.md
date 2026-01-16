@@ -143,6 +143,33 @@ This program uses <conio.h>, which works best on Windows-based compilers like:
 
 
 
+**Screenshots**
+
+## User Login
+![User Login]()
+
+## User Menu(1)
+![User Menu(1)]()
+
+## User Menu(1) Result
+![User Menu(1) Result]()
+
+## User Menu(2)
+![User Menu(2)]()
+
+## User Menu(2) Result
+![User Menu(2) Result]()
+
+## Manager Login
+![Manager Login]()
+
+## Manager Menu(3)
+![Manager Menu(3)]()
+
+## Manager Menu(3) Result
+![Manager Menu(3) Result]()
+
+
 **📌 Disclaimer**
 *This project is built for learning and academic purposes to understand C++ OOP and file handling concepts.*
 
